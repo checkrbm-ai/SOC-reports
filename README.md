@@ -7,6 +7,7 @@ Provide a short summary of the incident (2–3 sentences):
 - When it occurred
 - Which system or asset was affected
 - How the incident was detected
+<img width="652" height="413" alt="image" src="https://github.com/user-attachments/assets/06719e16-3217-46ce-a196-5698688e82e2" />
 
 ## 🕒 2. Timeline
 | Time (UTC) | Event Description |
